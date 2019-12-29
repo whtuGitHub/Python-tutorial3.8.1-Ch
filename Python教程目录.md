@@ -18,7 +18,7 @@ Python的[术语](https://docs.python.org/3.8/glossary.html#glossary) (Glossary)
 **以下就是本教程的目录了**
 
 - [1. 激励你的求知欲 (Whetting Your Appetitle)](./documents/chap1/1.激励你的求知欲-Whetting_Your_Appetitle.md)
-- 2. 使用Python解释器 (Using the Python Interpreter)
+- [2. 使用Python解释器 (Using the Python Interpreter)](./documents/chap2/2.使用Python解释器-Using_the_Python_Interpreter)
     - 2.1. 调用解释器 (Invoking the Interpreter)
         - 2.1.1. 参数传递 (Argument Passing)
         - 2.1.2. 交互模式 (Interactive Mode)
